@@ -1,0 +1,37 @@
+---
+title: Research Experience
+---
+
+## Qi Lab
+
+<img src="qi_lab.jpg" style="height: 100%; width: 100%; object-fit: contain"onclick="window.open('https://www.xinqi-lab.com/', 'blank');"/>
+
+
+[Qi lab](https://www.xinqi-lab.com/) focuses on investigating the impact of mitochondrial quality control and metabolism on neurodegenerative diseases. We employ a multidisciplinary approach, integrating proteomics, genomics, cell and molecular biology techniques, patient-derived iPS cell culture, and animal models to unravel the mechanisms underlying mitochondrial dysfunction. Our research explores how this dysfunction contributes to impaired cellular metabolism, immune response dysregulation, and neurodegeneration.
+Additionally, we utilize rationally designed peptide inhibitors of protein-protein interactions and high-throughput screening to pioneer "mitochondrial medicine" as a promising therapeutic strategy for treating neurodegenerative diseases.
+
+
+----
+
+## Tauopathy and Mitochondrial dysfunction
+
+<img src="tau_mito.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544674/', 'blank');"/>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544674/" target="_blank"> Ghua et al., Molecular Neurobiology 2020</a>
+
+
+
+Alzheimer's disease (AD), affecting 6.2 million individuals in the United States, stands as the most prevalent neurodegenerative condition. Within this category, tauopathies are distinguished by the aggregation of tau protein within neurons. In tauopathies, hyperphosphorylation prompts tau detachment from microtubules, inducing instability and aggregate formation, ultimately leading to neuronal death. Maintaining mitochondrial health is vital for neuronal function and survival, supporting ATP production and metabolism. Although the precise connection between mitochondrial dysfunction and tauopathy is yet unclear, research indicates that mitochondrial stress often precedes tau aggregation in models of tauopathy. Prolonged mitochondrial stress can trigger tau phosphorylation and aggregation, while tau aggregates can disrupt axonal transport of mitochondria, affecting mitochondrial function and dynamics. Despite the crucial roles of mitochondrial dysfunction in tauopathy, the mechanisms governing Tau-mitochondria interaction and its impact on disease progression and neurodegeneration remain uncertain.
+
+----
+
+## Publications
+
+Kee TR, Khan SA, Neidhart MB, Masters BM, Zhao VK, Kim YK, **McGill Percy KC**, Woo JA. The multifaceted functions of β-arrestins and their therapeutic potential in neurodegenerative diseases. Exp Mol Med. 2024 Feb;56(1):129-141. doi: 10.1038/s12276-023-01144-4. Epub 2024 Jan 11. PMID: 38212557; PMCID: PMC10834518.
+
+Kee TR, Wehinger JL, Gonzalez PE, Nguyen E, **McGill Percy KC**, Khan SA, Chaput D, Wang X, Liu T, Kang DE, Woo JA. Pathological characterization of a novel mouse model expressing the PD-linked CHCHD2-T61I mutation. Hum Mol Genet. 2022 Nov 28;31(23):3987-4005. doi: 10.1093/hmg/ddac083. PMID: 35786718; PMCID: PMC9703812.
+
+Yoo JY, Sniffen S, **McGill Percy KC**, Pallaval VB, Chidipi B. Gut Dysbiosis and Immune System in Atherosclerotic Cardiovascular Disease (ACVD). Microorganisms. 2022 Jan 5;10(1):108. doi: 10.3390/microorganisms10010108. PMID: 35056557; PMCID: PMC8780459.
+
+Woo JA, Yan Y, Kee TR, Cazzaro S, **McGill Percy KC**, Wang X, Liu T, Liggett SB, Kang DE. β-arrestin1 promotes tauopathy by transducing GPCR signaling, disrupting microtubules and autophagy. Life Sci Alliance. 2021 Dec 3;5(3):e202101183. doi: 10.26508/lsa.202101183. PMID: 34862271; PMCID: PMC8675912.
+
+
